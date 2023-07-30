@@ -20,7 +20,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Models\Authentication\LogIn\" />
+    <ProjectReference Include="..\Core.Identity.Service\Core.Identity.Service.csproj" />
   </ItemGroup>
 
 </Project>
